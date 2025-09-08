@@ -149,7 +149,7 @@
     width: 650px;
     height: 600px;
     max-width: 100%; /* responsive */
-    position: absolute;
+    position:absolute;
     left: 40%;
     transform: translateX(-50%); /* only center horizontally */
     top: 240px; /* adjust how far from the bottom */
