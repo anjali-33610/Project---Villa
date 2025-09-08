@@ -143,7 +143,7 @@
   height: 60vh;
   position: relative;
   color: white; /* text visible on dark bg */
-  text-align: center;
+  text-align:center;
 }
 .contact-info .cardimg {
     width: 650px;
